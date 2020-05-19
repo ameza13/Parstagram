@@ -24,6 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 configuration.server = "https://desolate-falls-91801.herokuapp.com/parse"
             })
         )
+        
         return true
     }
 
